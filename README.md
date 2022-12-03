@@ -5,3 +5,5 @@ Selected text > Right click > Search on twitter
 Firefox add-ons link: https://addons.mozilla.org/tr/firefox/addon/search-onn-twitter/
 
 ![SearchOnTwitter](http://semihcelikol.com/wp-content/uploads/2020/03/searchOnTwitter.png, "Search on Twitter")
+
+☕ You can thank me and support me by ordering a coffee :) https://www.buymeacoffee.com/semihc
